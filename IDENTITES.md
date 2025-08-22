@@ -1,12 +1,12 @@
-🏳️‍🌈 **Identities**
+🏳️‍🌈 **Identities** 🏳️‍⚧️
 
-Pronouns:
+- Pronouns:
   - She/Her
   - They/Them
   
-Honourifics:
+- Honourifics:
   - Mx
   - Ms
     
-Linkie Boi:
-  https://en.pronouns.page/@cmish00
+- Linkie Boi:
+  - https://en.pronouns.page/@cmish00
