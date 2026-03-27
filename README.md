@@ -3,8 +3,6 @@
 <div>
 	
 <div align="center">
-  <br />
-  <br />
   
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=C8721B&center=true&vCenter=true&random=true&width=435&lines=I%27m+trying+my+best" />
