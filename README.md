@@ -1,5 +1,7 @@
 <div align="left">
-  <img src="/stuff/coffee.gif" />
+  <img src="/stuff/coffee.gif" width=10/>
+<div>
+<div align-"center">
   <br />
   <br />
   
