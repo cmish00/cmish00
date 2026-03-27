@@ -1,4 +1,4 @@
-<p float="left">
+<p float="center">
   <img src="/stuff/chips.gif" width="320"/>
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=C8721B&center=true&vCenter=true&random=true&width=435&lines=I%27m+trying+my+best" width="400"/>
 </p>
