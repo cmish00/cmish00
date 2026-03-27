@@ -1,11 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img src="/stuff/chips.gif" width="320" style="margin-right: 80px;" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=C8721B&center=true&vCenter=true&random=true&width=435&lines=I%27m+trying+my+best" />
-<div>
-
 <div style="position: relative; text-align: center;">
   <!-- Centered image -->
-  <img src="[center-image.png](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=C8721B&center=true&vCenter=true&random=true&width=435&lines=I%27m+trying+my+best)" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=C8721B&center=true&vCenter=true&random=true&width=435&lines=I%27m+trying+my+best" />
 
   <!-- Left image (positioned relative to the centered one) -->
   <img src="/stuff/chips.gif"
