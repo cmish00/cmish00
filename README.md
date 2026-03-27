@@ -1,7 +1,6 @@
-<div style="position: relative; text-align: center;">
+<div style="display: flex; align-items: center;">
   <!-- Centered image -->
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1000&color=C8721B&center=true&vCenter=true&random=true&width=435&lines=I%27m+trying+my+best" />
-
   <!-- Left image (positioned relative to the centered one) -->
   <img src="/stuff/chips.gif"
        style="position: absolute; top: 50%; left: calc(50% - 250px); transform: translateY(-50%);" />
