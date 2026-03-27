@@ -1,7 +1,8 @@
 <div align="left">
-  <img src="/stuff/coffee.gif" width=10/>
+  <img src="/stuff/coffee.gif" width="10"/>
 <div>
-<div align-"center">
+	
+<div align="center">
   <br />
   <br />
   
