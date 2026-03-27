@@ -26,5 +26,5 @@
 
 
   <div align="right">
-    <img src="/stuff/chips.gif">
+    <img src="/stuff/chips.gif" width="400">
   </div>
