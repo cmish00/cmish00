@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/coffee.gif" />
+  <img src="/stuff/coffee.gif" />
   <br />
   <br />
   
@@ -23,5 +23,5 @@
 
 
   <div align="right">
-    <img src="/chips.gif">
+    <img src="/stuff/chips.gif">
   </div>
